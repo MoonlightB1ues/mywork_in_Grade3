@@ -10,3 +10,4 @@
 大数据的第一个编程作业,由于体积问题原始数据没有上传,可以自行去学习通下载到本地,存在data里面应该就能跑了.
 
 **如果能用,点个星呗XD**
+<img width="165" height="136" alt="15cee1da7d0d996ff9234c204e55757d" src="https://github.com/user-attachments/assets/74447136-1838-4a9d-a9c0-06c2b972656b" />
