@@ -1,0 +1,11 @@
+import numpy as np
+arr=np.arange(1,17).reshape(4,4)
+print(arr)
+triu_arr = np.triu(arr)
+tril_arr = np.tril(arr,-1)
+print(triu_arr)
+print(tril_arr)
+arr=np.delete(arr,1,0)
+#print("\n",arr)
+arr=np.delete(arr,1,1)
+#print("\n",arr)

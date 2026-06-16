@@ -1,0 +1,11 @@
+import numpy as np
+b=np.random.randn(50,50)
+print(b)
+b=np.delete(b,9,axis=0)
+print(b)
+b=np.delete(b,24,axis=0)
+print(b)
+b=np.delete(b,17,axis=1)
+print(b)
+b=np.delete(b,43,axis=1)
+print(b)
